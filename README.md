@@ -4,7 +4,7 @@
 The purpose of this program is to compare 3 different classification models by training and testing them on Scikit Learn's breast cancer data set. The best model will be chosen based on its accuracy, confusion matrix, and classification report.
 
 # Input
-The expected input of this program is the Scikit Learn's breast cancer dataset. The class attributes are 0 as Malignant and 1 and Benign.
+The expected input of this program is the Scikit Learn's breast cancer dataset. The class attributes are 0 as Malignant and 1 as Benign.
 
 # Type of Execution & Methods
 The program performs the following types of execution:
